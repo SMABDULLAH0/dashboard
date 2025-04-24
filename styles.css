@@ -1,7 +1,7 @@
 /* General background */
 body {
     background-color: white;
-    color: white;
+    color: black;
 }
 
 /* Sidebar */
@@ -20,7 +20,7 @@ body {
 
 /* Header text */
 h1, h2, h3, h4, h5, h6 {
-    color: white !important;  /* Light purple */
+    color: #6a4fba !important;  /* Light purple */
 }
 
 /* Button styling */
