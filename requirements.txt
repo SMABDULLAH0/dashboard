@@ -218,3 +218,6 @@ wsproto==1.2.0
 zipp==3.21.0
 zope.interface==7.2
 plotly==5.1.0
+streamlit
+pandas
+plotly
