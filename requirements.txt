@@ -1,3 +1,8 @@
+# Add compatible versions of numpy and plotly
+numpy==1.23.5  # Use a compatible numpy version with plotly
+plotly==5.5.0  # Use a compatible plotly version
+
+# Keep other dependencies as they are
 absl-py==2.1.0
 altair==5.5.0
 anyio==4.6.2.post1
@@ -107,7 +112,7 @@ nest-asyncio==1.6.0
 networkx==3.4.2
 notebook==7.2.2
 notebook_shim==0.2.4
-numpy==2.0.2
+numpy==1.23.5  # Added compatible numpy version
 openpyxl==3.1.5
 opt_einsum==3.4.0
 optree==0.13.1
@@ -122,7 +127,7 @@ parso==0.8.4
 patsy==1.0.1
 pillow==11.0.0
 platformdirs==4.3.6
-plotly==5.1.0  # Only one entry for plotly
+plotly==5.5.0  # Added compatible plotly version
 prometheus_client==0.21.0
 prompt_toolkit==3.0.48
 Protego==0.3.1
